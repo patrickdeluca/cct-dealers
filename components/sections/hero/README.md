@@ -57,20 +57,6 @@ const Hero: React.FC = () => {
 | subtitle | string | Supporting copy |
 | features | Feature[] | Array of feature items |
 
-## Content Guidelines
-
-### Headlines
-Current: "Your Digital Finance Advantage: DEALS 2.0"
-Alternatives tested:
-- "Maximize F&I Profits with DEALS 2.0"
-- "Redefine F&I with DEALS 2.0"
-- "Transform Subprime Financing into Profit"
-
-### Feature Items
-- Revenue Sharing
-- Instant Decisions
-- Digital Documentation
-- Mobile Platform
 
 ## Responsive Behavior
 
